@@ -1,18 +1,31 @@
 This Arduino project controls a fan's speed based on temperature readings from a DHT22 sensor and commands received from an IR remote. The system includes different user profiles and a manual control mode to adjust the fan speed.
 
 **Components**:
+
 Arduino Uno
+
 DHT22 Temperature and Humidity Sensor
+
 16x2 LCD Display
+
 IR Receiver Module
+
 Fan (DC Motor)
+
 Transistor
+
 Resistors
+
 IR Remote
+
 Jumper wires
+
 Breadboard
+
 **How It Works**:-
+
 **Setup**: The system initializes the DHT22 sensor, LCD display, and IR receiver.
+
 Temperature Reading: The DHT22 sensor continuously measures the temperature and humidity.
 
 **Display**: The measured temperature is displayed on the 16x2 LCD.
@@ -38,4 +51,5 @@ Connect the components as per the circuit diagram.
 Upload the provided code to your Arduino.
 
 Use the IR remote to switch between different profiles or manually control the fan speed.
+
 Observe the temperature and fan speed on the LCD display.
