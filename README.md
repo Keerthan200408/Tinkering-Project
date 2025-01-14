@@ -1,4 +1,4 @@
-This Arduino project controls a fan's speed based on temperature readings from a DHT22 sensor and commands received from an IR remote. The system includes different user profiles and a manual control mode to adjust the fan speed.
+This Arduino project controls a fan's speed based on temperature readings from a DHT22 sensor and commands received from an IR remote. The system includes different user profiles and also a manual control mode to adjust the fan speed.
 
 **Components**:
 
